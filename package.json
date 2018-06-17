@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rockkura/praveen-inventory#readme",
   "devDependencies": {
     "express": "^4.16.3"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.259.1"
   }
 }
