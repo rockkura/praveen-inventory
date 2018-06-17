@@ -1,6 +1,6 @@
 module.exports = {
     apps: [{
-      name: 'praveen-ineventory',
+      name: 'praveen-inventory',
       script: './index.js'
     }],
     deploy: {
