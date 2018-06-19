@@ -6,7 +6,7 @@ module.exports = {
     deploy: {
       production: {
         user: 'ubuntu',
-        host: 'ec2-54-152-103-51.compute-1.amazonaws.com',
+        host: 'ec2-54-175-162-158.compute-1.amazonaws.com',
         key: '~/.ssh/ec2-inventory.pem',
         ref: 'origin/master',
         repo: 'git@github.com:rockkura/praveen-inventory.git',
